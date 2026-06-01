@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 测试报告（运行时生成，不入库）
+allure-results/
+# allure-report/
+reports/
+screenshots/
+.pytest_cache/
+
+# Playwright
+.playwright/
+ms-playwright/
+
+# OS
+.DS_Store
+Thumbs.db

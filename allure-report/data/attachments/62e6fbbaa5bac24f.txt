@@ -1,0 +1,3 @@
+[WARNING] App 登录弹窗未能在 20s 内关闭，当前 URL=http://localhost:9530/#/
+
+[App课程详情] URL=http://localhost:9530/#/course/detail/25

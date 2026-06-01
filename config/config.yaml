@@ -1,0 +1,25 @@
+base_url: "http://localhost:9096"
+
+admin:
+  url: "http://localhost:9528"
+  username: "admin"
+  password: "123456"
+
+teacher:
+  url: "http://localhost:9529"
+  mobile: "18012345678"
+  password: "123456"
+
+app:
+  url: "http://localhost:9530"
+  mobile: "18029240302"
+  password: "123456"
+
+# Playwright 浏览器配置
+playwright:
+  headless: true          # CI 环境设为 true；本地调试可改 false
+  slow_mo: 0              # 每步延迟毫秒，调试时可设 300
+  viewport:
+    width: 1280
+    height: 720
+  screenshot: "only-on-failure"  # only-on-failure / always / never

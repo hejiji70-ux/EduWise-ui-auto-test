@@ -1,0 +1,3 @@
+[Teacher] API login success, token=57:6e8e663ac84e4f459...
+
+[讲师课程列表] 当前URL=http://localhost:9529/#/404

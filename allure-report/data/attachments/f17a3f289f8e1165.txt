@@ -1,0 +1,6 @@
+[Admin] API login success, token=1:66d77c3344084dca9b...
+[WARNING] 学员管理页表格未找到，跳过: Locator.wait_for: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".el-table") to be visible
+
+[WARNING] 可能路由 /#/member/list 不存在或页面结构不同

@@ -1,0 +1,4 @@
+[WARNING] 搜索框不可用或搜索失败，跳过: Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(".el-table-wrapper input[type='text'], .el-table input.el-input__inner, .el-form input.el-input__inner").first to be visible
+
